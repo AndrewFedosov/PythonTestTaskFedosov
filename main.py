@@ -1,3 +1,6 @@
+# create by Andrew Fedosov
+# 27.09.2020
+
 from selenium import webdriver
 import os.path
 import csv
